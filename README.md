@@ -1,6 +1,6 @@
 This repository was made to accompany a DIY LED Panel project posted to youtube. 
 
-See led-strp-dimmer.ino for arduino code.
+See led-strip-dimmer.ino for arduino code.
 
 3D files can be downloaded at Printables: 
 
